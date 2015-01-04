@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+'**************************************************************** 
+' Name: 
+' Purpose: 
+' Preconditions: 
+' Post-conditions:
+' Inputs: 
+' Outputs:
+'Created by:
+'Creat Date:
+'Updated by:
+'Updated Date:
+'******************************************************************
+Class 'Class Name
+	
+	'Public
+	'Function
+
+End Class
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>class</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.vbs</scope>
+	<description>Class</description>
+</snippet>
