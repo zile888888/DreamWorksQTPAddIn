@@ -19,7 +19,7 @@
 	<key>keyEquivalent</key>
 	<string>^~A</string>
 	<key>name</key>
-	<string>DreamWorksAvailable</string>
+	<string>DreamWorksQTPAddIn</string>
 	<key>patterns</key>
 	<array>
 		<dict>
